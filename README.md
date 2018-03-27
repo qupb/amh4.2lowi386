@@ -9,7 +9,7 @@ RAM 192MB(no swap)
 
 安装指令:
 
-wget https://xieyuqaq.github.io/amh4.2lowi386/amh.sh && bash amh.sh 2>&1 | tee amh.log
+“wget http://amh.faug.site/amh.sh && bash amh.sh 2>&1 | tee amh.log”
 
 如果您对于此可执行文件有兴趣的话，可以通过github来浏览它。
 github:
