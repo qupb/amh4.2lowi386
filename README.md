@@ -12,5 +12,5 @@ RAM 192MB(no swap)
 wget http://amh.faug.site/amh.sh && bash amh.sh 2>&1 | tee amh.log
 ```
 如果您对于此可执行文件有兴趣的话，可以通过github来浏览它。
-github:https://github.com/XieYuQAQ/amh4.2lowi386(https://github.com/XieYuQAQ/amh4.2lowi386)
-个人博客:https://x.faug.site(https://x.faug.site)
+github:[https://github.com/XieYuQAQ/amh4.2lowi386](https://github.com/XieYuQAQ/amh4.2lowi386)
+个人博客:[https://x.faug.site](https://x.faug.site)
